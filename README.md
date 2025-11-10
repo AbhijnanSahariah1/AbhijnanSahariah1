@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/AbhijnanSahariah1">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.instagram.com/Abhijnan_s.1">
-    <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -25,18 +25,22 @@
 
 ### Projects
 
-[![DevTools Hub](https://img.shields.io/badge/DevTools%20Hub-Visit-blue?style=for-the-badge)](https://github.com/AbhijnanSahariah1/DevTools-Hub)  
-A collection of useful everyday web tools.
+<a href="https://github.com/AbhijnanSahariah1/DevTools-Hub">
+  <img src="https://img.shields.io/badge/DevTools%20Hub-Visit-blue?style=for-the-badge">
+</a>
 
-[![Driver Monitoring System](https://img.shields.io/badge/Driver%20Monitoring%20System-Repo-green?style=for-the-badge)](https://github.com/AbhijnanSahariah1/DriverMonitoringSystem)  
-Eye-blink detection system using Arduino.
+<a href="https://github.com/AbhijnanSahariah1/DriverMonitoringSystem">
+  <img src="https://img.shields.io/badge/Driver%20Monitoring%20System-Repo-green?style=for-the-badge">
+</a>
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge)](https://github.com/AbhijnanSahariah1/Portfolio)  
-Clean and minimal personal website.
+<a href="https://github.com/AbhijnanSahariah1/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge">
+</a>
 
 ---
 
 ### Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijnanSahariah1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijnanSahariah1&show_icons=true&theme=tokyonight&hide_border=true" height="150">
 </p>
+
