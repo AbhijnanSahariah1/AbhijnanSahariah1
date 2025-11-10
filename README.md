@@ -24,9 +24,15 @@
 ---
 
 ### Projects
-- DevTools Hub
-- Driver Monitoring System
-- Portfolio Website
+
+[![DevTools Hub](https://img.shields.io/badge/DevTools%20Hub-Visit-blue?style=for-the-badge)](https://github.com/AbhijnanSahariah1/DevTools-Hub)  
+A collection of useful everyday web tools.
+
+[![Driver Monitoring System](https://img.shields.io/badge/Driver%20Monitoring%20System-Repo-green?style=for-the-badge)](https://github.com/AbhijnanSahariah1/DriverMonitoringSystem)  
+Eye-blink detection system using Arduino.
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge)](https://github.com/AbhijnanSahariah1/Portfolio)  
+Clean and minimal personal website.
 
 ---
 
